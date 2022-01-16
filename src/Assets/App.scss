@@ -1,0 +1,60 @@
+.container{
+    .header{
+        width: 90%;
+        background: url('./soldier_helmet_art_123765_1920x1080.jpg');
+        padding: 2rem;
+        margin: 3rem;
+        text-align: center;
+        height: 50rem;
+
+    }
+    .navbar{
+        width: 100%;
+        background-color: rgb(245, 250, 249);
+        padding: 2rem;
+        margin: 3rem;
+        text-align: center;
+
+
+    }
+    .Section{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row-reverse;
+    }   
+        .Card{
+            background-color: rgb(45, 134, 134);
+            padding: 2rem ;   
+        }
+        .Section-body-3{
+            background-color: rgb(255, 0, 0);
+            padding: 2rem;
+
+
+        }
+        .Section-body-1{
+            background-color: rgb(255, 0, 0);
+            padding: 2rem;
+
+
+        }
+}      
+        .Body{
+            display: flex;
+            justify-content: space-around;
+            flex-direction: row;
+            .Body-Anak{
+                background-color: green;
+                width: 15rem;
+                height: 20rem;
+
+
+            .Body-Anak{
+                height: 40rem;
+                width: 100%;
+                background-color: chartreuse;
+
+            }
+        }
+
+    }
